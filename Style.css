@@ -1,0 +1,36 @@
+.head , .footer{
+    background-color: rgb(242, 255, 56);
+}
+
+.button{
+    margin-right: 2rem;
+}
+
+.bt_txt{
+    font-family: "Ubuntu", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    transition: 0.3s;
+}
+
+.bt_txt:hover{
+    color: white;
+}
+
+.media{
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.bd{
+    width: 400px;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+    padding: 30px;
+}
+
+.sub{
+    width: 100%;
+}
